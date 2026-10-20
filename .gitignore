@@ -1,0 +1,8 @@
+/pr-ladder
+/pr-ladder.exe
+/dist/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*:Zone.Identifier

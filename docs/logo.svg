@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+  <title>PR Ladder</title>
+  <g stroke="#8b949e">
+    <path d="M18 25h28M18 34h28M18 43h28"/>
+  </g>
+  <g stroke="#2ea043">
+    <circle cx="18" cy="11" r="5"/>
+    <path d="M18 16v32"/>
+    <circle cx="18" cy="53" r="5"/>
+    <circle cx="46" cy="53" r="5"/>
+    <path d="M46 48V22a8 8 0 0 0-8-8h-8"/>
+    <path d="M34 9l-5 5 5 5"/>
+  </g>
+</svg>
